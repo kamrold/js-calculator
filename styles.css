@@ -1,0 +1,53 @@
+body {  
+background-color:brown;  
+margin: 0px auto;  
+  
+}  
+.calbody{  
+ background: gold;  
+ border: 1px solid black;  
+ padding: 10px;  
+ margin-left: 450px;  
+ min-width: 25em;  
+ max-width: 25em;  
+   
+}  
+h1{  
+ text-align: center;  
+ font-size: 40px;  
+ color: #003652;  
+   
+}  
+  
+#lcd{  
+ text-align: right;  
+ width: 20.3em;  
+ height: 40px;  
+ font-size: 18px;  
+   
+}  
+  
+#lcdu{  
+ color: black;  
+ text-align: right;  
+ width: 24.4em;  
+ height: 35px;  
+ font-size: 15px;  
+   
+}  
+  
+button{  
+ background-color:indigo;  
+ width: 70px;  
+ height: 60px;  
+ font-size: 20px;  
+ border: 1px solid #097C9B;  
+   
+  
+}  
+  
+button:hover{  
+  background-color: cyan;   
+    
+ }  
+}

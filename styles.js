@@ -13,7 +13,8 @@ function numone(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "1";  
+  
+  document.calculator.display.value = document.calculator.display.value + "1";  
  }  
    
 }  
@@ -26,7 +27,7 @@ function numtwo(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "2";  
+  document.calculator.display.value = document.calculator.display.value + "2";  
  }  
    
 }  
@@ -39,7 +40,7 @@ function numthree(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "3";  
+  document.calculator.display.value = document.calculator.display.value + "3";  
  }  
     
 }  
@@ -52,7 +53,7 @@ function numfour(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "4";  
+  document.calculator.display.value = document.calculator.display.value + "4";  
  }  
    
 }  
@@ -65,7 +66,7 @@ function numfive(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "5";  
+  document.calculator.display.value = document.calculator.display.value + "5";  
  }  
    
 }  
@@ -78,7 +79,7 @@ function numsix(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "6";  
+  document.calculator.display.value = document.calculator.display.value + "6";  
  }  
    
 }  
@@ -91,7 +92,7 @@ function numseven(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "7";  
+  document.calculator.display.value = document.calculator.display.value + "7";  
  }  
 }  
 function numeight(){  
@@ -107,7 +108,7 @@ function numeight(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "8";  
+  document.calculator.display.value = document.calculator.display.value + "8";  
  }  
    
 }  
@@ -120,7 +121,7 @@ function numnine(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "9";  
+  document.calculator.display.value = document.calculator.display.value + "9";  
  }  
    
 }  
@@ -137,7 +138,7 @@ function numzero(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "0";  
+  document.calculator.display.value = document.calculator.display.value + "0";  
  }  
    
 }  
@@ -150,7 +151,7 @@ function numdobuzero(){
  }  
  else //if(document.calculator.display.value != "0")  
  {  
-  documentdocument.calculator.display.value = document.calculator.display.value + "00";  
+  document.calculator.display.value = document.calculator.display.value + "00";  
  }  
    
 }  
